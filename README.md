@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sicksweetdreamy&show_icons=true&hide_title=true&theme=graywhite"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sicksweetdreamy&layout=compact&theme=graywhite"/>
-</p>
-
 ---
 
 ### 🧩 What I like building
