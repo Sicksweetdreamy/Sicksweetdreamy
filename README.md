@@ -38,13 +38,6 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Sicksweetdreamy/Sicksweetdreamy/5402098cec20efec5d7ce4478f0234b914220471/e274928c-c804-4cff-b35a-e0c51c97f2c3.jpg" 
-    width="400"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://raw.githubusercontent.com/Sicksweetdreamy/Sicksweetdreamy/4f812f276958f392e04b7e00000dc9d0d2449467/RobloxScreenShot20251209_223655419.png" 
     width="400"
   />
