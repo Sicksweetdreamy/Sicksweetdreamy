@@ -21,7 +21,7 @@
 - 🎮 Games: **Roblox**, **Minecraft**
 - 🎧 Love listening to music while coding
 - 🎨 Enjoy drawing & creative expression
-- 🧸 BBG: **Oda** (very important ✨)
+- 🧸 ---
 ---
 
 ### 🛠 Tech Stack (what I enjoy using)
